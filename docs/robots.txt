@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://draknorixdev.github.io/tempon-site/sitemap.xml

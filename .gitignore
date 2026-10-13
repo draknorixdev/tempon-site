@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+*.jks
+*.keystore
+*.p12
+*.apk
+*.aab
+*.temponbackup
+.env*
+node_modules/

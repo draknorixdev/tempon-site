@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-label="TEMPON">
+  <rect width="108" height="108" rx="26" fill="#eff3e9"/>
+  <path fill="#507600" d="M26 30h56v13H61v35H47V43H26Z"/>
+  <path fill="#007f91" d="M25 51h16l-6 7H20Z"/>
+  <path fill="#507600" opacity=".65" d="M20 65h21l-5 7H16Z"/>
+</svg>
